@@ -1,1 +1,2 @@
-Olá, aqui estou tentando aprender a mexer no git e github
+Olá, aqui estou aprendendo a mexer no git e github
+Isso é uma alteração
